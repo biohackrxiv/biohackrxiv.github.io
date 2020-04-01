@@ -1,6 +1,6 @@
 # BioHackrXiv
 
-![BioHackrXiv logo](assets/BioHackrXiv-logo-transparent-340x140.png)
+![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
 
 ## Welcome to BioHackrXiv!
 
