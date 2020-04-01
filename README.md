@@ -2,11 +2,9 @@
 
 ![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
 
-## Welcome to BioHackrXiv!
-
 This is the companion website to the main [BioHackrXiv preprint server](https://biohackrxiv.org/).
 
-### About the BioHackrXiv
+### About
 
 BioHackrXiv is a preprint to report on works done during BioHackathons, CodeFests, Sprints or similar events and related to Life Sciences and Health Care domains. Articles in BioHackrXiv commonly report on-going work as a couple of days of hacking are commonly not enough to get the things fully done. However, hackathon reports should still show work that people can build upon.
 
