@@ -1,5 +1,7 @@
 # BioHackrXiv
 
+![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
+
 This is the companion website to the main [BioHackrXiv preprint server](https://biohackrxiv.org/).
 
 ## About
