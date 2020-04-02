@@ -1,8 +1,8 @@
 # BioHackrXiv
 
-![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
+This [guide page](http://guide.biohackrxiv.org/) provides essential information for the [BioHackrXiv](https://biohackrxiv.org/) preprint server.
 
-This is the companion website to the main [BioHackrXiv preprint server](https://biohackrxiv.org/).
+![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
 
 ## About
 
@@ -18,16 +18,18 @@ The people behind BioHackrXiv has participated on multiple BioHackathons organiz
 
 ## Documents
 
-* [BioHackrXiv submission guidelines](submission_guidelines)
-* [BioHackrXiv journal policies](journal_policies)
+* [BioHackrXiv submission guidelines](submission_guidelines) (in preparation)
+* [BioHackrXiv journal policies](journal_policies) (in preparation)
 
 ## Files
 
 * [BioHackrXiv submission templates](https://github.com/biohackrxiv/submission-templates)
-* [BioHackrXiv Markdown to PDF converter](https://github.com/biohackrxiv/bhxiv-gen-pdf)
+* [BioHackrXiv Markdown to PDF rendering service](http://render.biohackrxiv.org) (in preparation)
+  * Powered by the [BioHackrXiv Markdown to PDF converter](https://github.com/biohackrxiv/bhxiv-gen-pdf)
 * [BioHackrXiv logo](assets/logo/)
 
 ## Contact
 
 * [BioHackrXiv steering/editorial committee](mailto:biohackrxiv@googlegroups.com)
+  * Current committee members are listed at the [BioHackrXiv website](https://biohackrxiv.org/).
 
