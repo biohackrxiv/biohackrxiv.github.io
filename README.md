@@ -29,5 +29,5 @@ The people behind BioHackrXiv has participated on multiple BioHackathons organiz
 
 ## Contact
 
-* [Editorial committee](mailto:biohackrxiv@googlegroups.com)
+* [BioHackrXiv steering/editorial committee](mailto:biohackrxiv@googlegroups.com)
 
