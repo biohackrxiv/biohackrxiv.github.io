@@ -1,8 +1,8 @@
 # BioHackrXiv guides
 
-![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
-
 [This page](https://biohackrxiv.github.io/) provides essential information for the [BioHackrXiv](https://biohackrxiv.org/) preprint server.
+
+![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
 
 ## About
 
@@ -31,5 +31,7 @@ The people behind BioHackrXiv has participated on multiple BioHackathons organiz
 ## Contact
 
 * [BioHackrXiv steering/editorial committee](mailto:biohackrxiv@googlegroups.com)
-  * Current committee members are listed at the [BioHackrXiv website](https://biohackrxiv.org/).
+
+Current committee members are listed at the [BioHackrXiv website](https://biohackrxiv.org/).
+
 
