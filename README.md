@@ -1,8 +1,8 @@
 # BioHackrXiv
 
-[This page](https://biohackrxiv.github.io/) provides essential information for the [BioHackrXiv](https://biohackrxiv.org/) preprint server.
-
 ![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
+
+[This page](https://biohackrxiv.github.io/) provides essential information for the [BioHackrXiv](https://biohackrxiv.org/) preprint server.
 
 ## About
 
