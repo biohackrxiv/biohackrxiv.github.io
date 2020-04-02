@@ -6,7 +6,7 @@ This is the companion website to the main [BioHackrXiv preprint server](https://
 
 ## About
 
-BioHackrXiv is a preprint to report on works done during BioHackathons, CodeFests, Sprints or similar events and related to Life Sciences and Health Care domains. Articles in BioHackrXiv commonly report on-going work as a couple of days of hacking are commonly not enough to get the things fully done. However, hackathon reports should still show work that people can build upon.
+BioHackrXiv is a preprint to report on works done during BioHackathons, CodeFests, Sprints or similar events and related to Life Sciences and Health Care domains. Articles in [BioHackrXiv](https://biohackrxiv.org/) commonly report on-going work as a couple of days of hacking are commonly not enough to get the things fully done. However, hackathon reports should still show work that people can build upon.
 
 One of the reasons behind BioHackathons and similar is sharing: ideas, data, designs, software, documentations and tutorials among others. We therefore kindly ask you to use [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode) for your work. We also encourage you to share your code on GitHub, with an open license whenever possible.
 
@@ -20,6 +20,12 @@ The people behind BioHackrXiv has participated on multiple BioHackathons organiz
 
 * [Submission guidelines](submission_guidelines)
 * [Journal policies](journal_policies)
+
+## Files
+
+* [BioHackrXiv submission templates](https://github.com/biohackrxiv/submission-templates)
+* [BioHackrXiv Markdown to PDF converter](https://github.com/biohackrxiv/bhxiv-gen-pdf)
+* [BioHackrXiv logo](assets/logo/)
 
 ## Contact
 
