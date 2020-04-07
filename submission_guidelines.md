@@ -3,19 +3,19 @@
 ## Before submitting
 
 BioHackrXiv welcomes articles 
-* correrponding to an original work,
+* corresponding to an original work,
 * written in English, 
 * derived from projects proposed and developed as part of a BioHackathon, CodeFest, VoCamps, Sprint or similar in the domain of Life Sciences and Health Care
 
 Where can I get a publication example?
 
 * Please have a look at the [Logic group paper from NBDC/DBCLS BioHackathon 2019](https://github.com/biohackrxiv/bhxiv-gen-pdf/blob/master/example/logic/LogicProgramming.pdf)
-* You can also have a loog to the corresponding [Markdown](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.md) and [bibliography](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.bib) files
+* You can also have a look to the corresponding [Markdown](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.md) and [bibliography](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.bib) files
 
 **Note:** During its first year, summer 2019 to 2020, BioHackrXiv will only accept submissions from invited events
 * Why? DOIs have a price and during the first year we have a limited number of those
 * Will this change? Yes, we are looking forward to creating a sustainable model that will allow us to host many more submissions
-* How can I contribute to build such a sustainable model? If you want to become a sponsor, please [send us an email] (mailto:biohackrxiv@googlegroups.com). 
+* How can I contribute to building such a sustainable model? If you want to become a sponsor, please [send us an email] (mailto:biohackrxiv@googlegroups.com). 
  
  ### Current list of supported events
   * NBDC/DBCLS BioHackathon 2019
@@ -46,6 +46,6 @@ Where can I get a publication example?
 * Submitted manuscripts go through the [moderation process](./moderation_process) to check basic conformance to the guidelines contained in this document
 * Once the article is approved, it will be assigned a DOI and therefore citable; at this point articles cannot be withdrawn
 * Any articles not conforming to these guidelines will be rejected and submitter will be notified, you can always modify your article an resubmit if yu see you can fullfil the [preprint requirements](#before-submitting)
-* Please be aware preprints are not peer-review, you as an author carry full responsability on the information, including data and tools, published
-* BioHackrXiv takes no responsability on the material published
+* Please be aware preprints are not peer-review, you as an author carry full responsibility on the information, including data and tools, published
+* BioHackrXiv takes no responsibility on the material published
 * BioHackrXiv reserves the right to identify and retract any articles containing plagiarized material, on copyright infringement or describing experimental work that is not performed in accordance with the relevant ethical standards for research using animals or human subjects.
