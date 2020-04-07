@@ -9,7 +9,8 @@ BioHackrXiv welcomes articles
 
 Where can I get a publication example?
 
-* Please have a look at (TODO)
+* Please have a look at the [Logic group paper from NBDC/DBCLS BioHackathon 2019](https://github.com/biohackrxiv/bhxiv-gen-pdf/blob/master/example/logic/LogicProgramming.pdf)
+* You can also have a loog to the corresponding [Markdown](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.md) and [bibliography](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.bib) files
 
 **Note:** During its first year, summer 2019 to 2020, BioHackrXiv will only accept submissions from invited events
 * Why? DOIs have a price and during the first year we have a limited number of those
@@ -24,7 +25,7 @@ Where can I get a publication example?
 
 ## While preparing your submission
 
-* To prepare your manuscript please use the [Markdown]() or [Latex]() templates
+* To prepare your manuscript please use the [Markdown]() template
 * Please always remember to add to your metadata the corresponding event as shown on the list of [currently supported events](#current-list-of-supported-events). You will find where to put this information on the templates
 * Please remember to get the approval of all listed co-authors before submitting
 * Please remember to properly credit any third-party material you are using
