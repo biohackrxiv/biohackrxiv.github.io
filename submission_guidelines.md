@@ -18,8 +18,8 @@ Where can I get a publication example?
 * How can I contribute to building such a sustainable model? If you want to become a sponsor, please [send us an email] (mailto:biohackrxiv@googlegroups.com). 
  
  ### Current list of supported events
-  * NBDC/DBCLS BioHackathon 2019
-  * ELIXIR BioHackathon Europe 2029
+  * [NBDC/DBCLS BioHackathon 2019](http://2019.biohackathon.org/)
+  * [ELIXIR BioHackathon Europe 2019](https://www.biohackathon-europe.org/)
   * Covid-19 Virtual BioHackathon 2020
 
 
