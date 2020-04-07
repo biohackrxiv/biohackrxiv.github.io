@@ -25,7 +25,7 @@ Where can I get a publication example?
 
 ## While preparing your submission
 
-* To prepare your manuscript please use the [Markdown]() template
+* To prepare your manuscript please use the [Markdown](https://raw.githubusercontent.com/biohackrxiv/submission-templates/master/paper.md) template
 * Please always remember to add to your metadata the corresponding event as shown on the list of [currently supported events](#current-list-of-supported-events). You will find where to put this information on the templates
 * Please remember to get the approval of all listed co-authors before submitting
 * Please remember to properly credit any third-party material you are using
