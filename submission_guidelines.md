@@ -12,6 +12,15 @@ Where can I get a publication example?
 * Please have a look at the [Logic group paper from NBDC/DBCLS BioHackathon 2019](https://github.com/biohackrxiv/bhxiv-gen-pdf/blob/master/example/logic/LogicProgramming.pdf)
 * You can also have a look to the corresponding [Markdown](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.md) and [bibliography](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.bib) files
 
+Formatting and style
+
+* format of the manuscript: DOC, PDF, ...?
+* length: 10 pages max?
+* Footnotes: Not permitted
+* Language: English (American and British spelling are accepted)
+* Abbreviations: Define them as they appear first in the manuscript
+* References: Only papers published or in press. Follow 'Harvard' style
+
 **Note:** During its first year, summer 2019 to 2020, BioHackrXiv will only accept submissions from invited events
 * Why? DOIs have a price and during the first year we have a limited number of those
 * Will this change? Yes, we are looking forward to creating a sustainable model that will allow us to host many more submissions
