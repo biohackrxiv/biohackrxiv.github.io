@@ -45,7 +45,7 @@ Where can I get a publication example?
 ## After submitting
 * Submitted manuscripts go through the [moderation process](./moderation_process) to check basic conformance to the guidelines contained in this document
 * Once the article is approved, it will be assigned a DOI and therefore citable; at this point articles cannot be withdrawn
-* Any articles not conforming to these guidelines will be rejected and submitter will be notified, you can always modify your article an resubmit if yu see you can fullfil the [preprint requirements](#before-submitting)
+* Any articles not conforming to these guidelines will be rejected and submitter will be notified, you can always modify your article an resubmit if you see you can fulfil the [preprint requirements](#before-submitting)
 * Please be aware preprints are not peer-review, you as an author carry full responsibility on the information, including data and tools, published
 * BioHackrXiv takes no responsibility on the material published
 * BioHackrXiv reserves the right to identify and retract any articles containing plagiarized material, on copyright infringement or describing experimental work that is not performed in accordance with the relevant ethical standards for research using animals or human subjects.
