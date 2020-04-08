@@ -26,8 +26,8 @@ Formatting and style
  
  ### Current list of supported events
   * [NBDC/DBCLS BioHackathon 2019](http://2019.biohackathon.org/)
-  * [ELIXIR BioHackathon Europe 2019](https://www.biohackathon-europe.org/)
-  * Covid-19 Virtual BioHackathon 2020
+  * [ELIXIR BioHackathon Europe 2019](https://2019.biohackathon-europe.org/)
+  * [Covid-19 Virtual BioHackathon 2020](https://github.com/virtual-biohackathons/covid-19-bh20)
 
 
 ## While preparing your submission
