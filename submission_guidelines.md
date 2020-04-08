@@ -8,18 +8,16 @@ BioHackrXiv welcomes articles
 * derived from projects proposed and developed as part of a BioHackathon, CodeFest, VoCamps, Sprint or similar in the domain of Life Sciences and Health Care
 
 Where can I get a publication example?
-
 * Please have a look at the [Logic group paper from NBDC/DBCLS BioHackathon 2019](https://github.com/biohackrxiv/bhxiv-gen-pdf/blob/master/example/logic/LogicProgramming.pdf)
 * You can also have a look to the corresponding [Markdown](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.md) and [bibliography](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.bib) files
 
 Formatting and style
-
-* format of the manuscript: DOC, PDF, ...?
-* length: 10 pages max?
+* format of the manuscript: by now only Markdown coverted to PDF with our [PDF generator](https://github.com/biohackrxiv/bhxiv-gen-pdf)
+* length: around 10 pages
 * Footnotes: Not permitted
-* Language: English (American and British spelling are accepted)
-* Abbreviations: Define them as they appear first in the manuscript
-* References: Only papers published or in press. Follow 'Harvard' style
+* language: English (American or British spelling are accepted but please do not mix them)
+* abbreviations: Define them as they appear first in the manuscript
+* references: Preferably papers published or in press. Please follow 'Harvard' style (our PDF generator will take care of the reference styling)
 
 **Note:** During its first year, summer 2019 to 2020, BioHackrXiv will only accept submissions from invited events
 * Why? DOIs have a price and during the first year we have a limited number of those
