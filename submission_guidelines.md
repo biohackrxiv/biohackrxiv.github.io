@@ -10,6 +10,7 @@ BioHackrXiv welcomes articles
 Where can I get a publication example?
 * Please have a look at the [Logic group paper from NBDC/DBCLS BioHackathon 2019](https://github.com/biohackrxiv/bhxiv-gen-pdf/blob/master/example/logic/LogicProgramming.pdf)
 * You can also have a look to the corresponding [Markdown](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.md) and [bibliography](https://raw.githubusercontent.com/biohackrxiv/bhxiv-gen-pdf/master/example/logic/paper.bib) files
+* Or you can have a look at an already [published preprint article](https://doi.org/10.37044/osf.io/8qdse)
 
 Formatting and style
 * format of the manuscript: by now only Markdown coverted to PDF with our [PDF generator](https://github.com/biohackrxiv/bhxiv-gen-pdf)
