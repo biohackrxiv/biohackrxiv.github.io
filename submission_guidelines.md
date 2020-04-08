@@ -13,7 +13,7 @@ Where can I get a publication example?
 
 Formatting and style
 * format of the manuscript: by now only Markdown coverted to PDF with our [PDF generator](https://github.com/biohackrxiv/bhxiv-gen-pdf)
-* length: around 10 pages
+* length: around 4 to 10 pages including references
 * Footnotes: Not permitted
 * language: English (American or British spelling are accepted but please do not mix them)
 * abbreviations: Define them as they appear first in the manuscript
