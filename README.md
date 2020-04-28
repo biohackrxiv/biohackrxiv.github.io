@@ -18,8 +18,10 @@ The people behind BioHackrXiv has participated on multiple BioHackathons organiz
 
 ## Documents
 
-* [BioHackrXiv submission guidelines](submission_guidelines) (in preparation)
-* [BioHackrXiv journal policies](journal_policies) (in preparation)
+* [BioHackrXiv submission guidelines](submission_guidelines)
+* [BioHackrXiv moderation process](moderation_process)
+* [Journal policies](journal_policies)
+* [FAQ](faq)
 
 ## Files
 
