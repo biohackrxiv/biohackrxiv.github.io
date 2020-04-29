@@ -12,7 +12,7 @@ of the paper "Logic group paper from NBDC/DBCLS BioHackathon 2019".
 
 **Formatting and style**
 * **Format of the manuscript**: by now only Markdown coverted to PDF with our [PDF generator](https://github.com/biohackrxiv/bhxiv-gen-pdf)
-* **Length**: up to 10 pages including references
+* **Length**: we suggest up to 10 pages including references
 * **Images and tables**: we do not require images or tables as a separate file, they should be embedded in the main manuscript. We do ask you to make sure the information there is readable
 * **Footnotes**: Not permitted
 * **Language**: English (American or British spelling are accepted but do not mix them up)
