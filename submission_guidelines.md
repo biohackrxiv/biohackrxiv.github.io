@@ -30,6 +30,7 @@ of the paper "Logic group paper from NBDC/DBCLS BioHackathon 2019".
   * Links to software (e.g., GitHub or Jupyter Notebooks) and data repositories created or developed during the event
   * Acknowledgements, make sure you always acknowledge the event where the reported work was developed and/or advanced
   * References
+* Supplementary material is optional. If you want to faciliate text-minning tasks, please submit the PDF corresponding sources, i.e., Markdown, bibliography and figures, as supplementary material
 
 ## While preparing your submission
 
@@ -43,6 +44,7 @@ of the paper "Logic group paper from NBDC/DBCLS BioHackathon 2019".
 * Please go to the [submission portal](https://biohackrxiv.org/) to share your article
 * You will need to sign in to access the submission system
 * Fill in the provided form, remember to upload a PDF file created with our PDF [generator tool](https://github.com/biohackrxiv/bhxiv-gen-pdf)
+* Remember, if you want to faciliate text-minning tasks, please submit the corresponding sources, i.e., Markdown, bibliography and figures, as supplementary material
 * The copyright remains with the author, who can select from several distribution/reuse options, i.e., license
 * Although you can choose from multiple license, we recommend [CC-BY](https://creativecommons.org/licenses/by/4.0/) or [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) to facilitate others to build upon your work
 * Regardless of the chosen license, by publishing on BioHackrXiv, authors explicitly consent to text mining of their work (e.g., by search engines or researchers)
