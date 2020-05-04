@@ -1,3 +1,9 @@
+---
+layout: default
+title: FAQ
+nav_order: 5
+---
+
 # FAQ
 
 ## Submissions and publications

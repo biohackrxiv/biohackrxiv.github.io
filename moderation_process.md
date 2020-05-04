@@ -1,3 +1,9 @@
+---
+layout: default
+title: Moderation process
+nav_order: 3
+---
+
 # Moderation process
 
 As a preprint, BioHackrXiv holds no peer-review process. We follow a basic checklist as detailed on the following section. Any submitted article will go through this checklist and a member of the corresponding moderation board will decide whether it can be accepted or not. There is one moderation board per eligible event (more information on moderation boards and the eligible events can be found on the [journal policies](./journal_policies.md)). We aim to notify about submission in a lapse from 2 to 5 days but the process can take up to two weeks.

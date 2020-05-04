@@ -1,4 +1,4 @@
-# BioHackrXiv guides
+# BioHackrXiv guide
 
 [This page](https://guide.biohackrxiv.org/) provides essential information for the [BioHackrXiv](https://biohackrxiv.org/) preprint server.
 
