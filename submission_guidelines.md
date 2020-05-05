@@ -1,3 +1,9 @@
+---
+layout: default
+title: Submission guidelines
+nav_order: 2
+---
+
 # Submission guidelines
 
 ## Before submitting

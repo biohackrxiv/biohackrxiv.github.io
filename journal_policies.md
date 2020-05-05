@@ -1,3 +1,9 @@
+---
+layout: default
+title: Journal policies
+nav_order: 4
+---
+
 # Journal policies
  
 BioHackrXiv has been created to offer a space to report on work done during Biohackathon-like events, e.g., BioHackathons, 

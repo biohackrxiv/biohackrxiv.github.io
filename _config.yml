@@ -1,2 +1,6 @@
-theme: jekyll-theme-minimal
-title: guide.biohackrxiv.org
+title: BioHackrXiv guide
+remote_theme: pmarsceill/just-the-docs
+search_enabled: false
+aux_links:
+  "BioHackrXiv": "https://biohackrxiv.org/"
+description: "Guidelines for BioHackrXiv, an OSF preprint server for BioHackathon-like events in Life Sciences"
