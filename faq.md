@@ -6,6 +6,8 @@ nav_order: 5
 
 # FAQ
 
+![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
+
 ## Submissions and publications
 
 * What is the main advantage of publishing my work in BioHackrXiv?

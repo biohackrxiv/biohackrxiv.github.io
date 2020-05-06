@@ -6,6 +6,8 @@ nav_order: 4
 
 # Journal policies
  
+![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
+
 BioHackrXiv has been created to offer a space to report on work done during Biohackathon-like events, e.g., BioHackathons, 
 CodeFests, VoCamps or Sprints. As a preprint, there is no peer-review process but a moderation one to decide whether 
 or not a submitted article can be accepted for publication. Authors are fully responsible for the entire submitted content.

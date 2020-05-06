@@ -6,6 +6,8 @@ nav_order: 2
 
 # Submission guidelines
 
+![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
+
 ## Before submitting
 
 BioHackrXiv welcomes articles corresponding to an original work and derived from projects proposed and developed as part of a BioHackathon, CodeFest, VoCamps, Sprint or similar in the domain of Life Sciences. We require the first, last or corresponding author to have participated in the event. More information can be found on our [Journal Policies](./journal_policies.md) and our [moderation process](./moderation_process.md).
