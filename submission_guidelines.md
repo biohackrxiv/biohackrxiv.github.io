@@ -1,9 +1,3 @@
----
-layout: default
-title: Submission guidelines
-nav_order: 2
----
-
 # Submission guidelines
 
 ![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)

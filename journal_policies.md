@@ -1,9 +1,3 @@
----
-layout: default
-title: Journal policies
-nav_order: 4
----
-
 # Journal policies
  
 ![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)

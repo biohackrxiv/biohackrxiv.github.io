@@ -1,9 +1,3 @@
----
-layout: default
-title: FAQ
-nav_order: 5
----
-
 # FAQ
 
 ![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)

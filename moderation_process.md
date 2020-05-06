@@ -1,9 +1,3 @@
----
-layout: default
-title: Moderation process
-nav_order: 3
----
-
 # Moderation process
 
 ![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
