@@ -3,3 +3,5 @@ remote_theme: jekyll-theme-minimal
 aux_links:
   "BioHackrXiv": "https://biohackrxiv.org/"
 description: "Guidelines for BioHackrXiv, an OSF preprint server for BioHackathon-like events in Life Sciences"
+
+theme: jekyll-theme-minimal
