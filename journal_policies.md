@@ -12,12 +12,14 @@ or not a submitted article can be accepted for publication. Authors are fully re
 BioHackrXiv holds no responsibility for published material.
 
 ## Administration
+
 At the top level, the steering committee will take the responsibility of deciding and managing policies, guidelines, 
 moderation process and directions of BioHackrXiv. You can find the steering committee members at the 
 [BioHackrXiv website](https://biohackrxiv.org/).
 
 ## Moderation
-Moderation boards will take care of the [moderation process](./moderation_process.md).
+
+Moderation boards will take care of the [moderation process](moderation_process).
 
 We aim to have one global moderation board, and several event-specific moderation boards, one per each supported BioHackathon-like event. 
 A moderation board will have one chair and a variable number of moderators (at least one) who will collaborate with the chair 
