@@ -11,16 +11,16 @@
   [NBDC/DBCLS BioHackathon](http://biohackathon.org/) and [BioHackathon Europe](http://biohackathon-europe.org/) series.
 
 * Whom I can contact in case of questions on the appropriateness of my article?
-  * Please check the [submission guidelines](submission_guidelines) as you will find there information on the 
+  * Please check the [submission guidelines](./submission_guidelines.md) as you will find there information on the 
   kind of submissions that will be considered. 
   If you still have doubts, you can contact us by [email](mailto:biohackrxiv@googlegroups.com)
 
 * Should I suggest potential referees to review my manuscript?
-  * There is no peer-review process for preprints. We follow a [moderation process](moderation_process) 
+  * There is no peer-review process for preprints. We follow a [moderation process](./moderation_process.md) 
   with pre-established moderation boards.
 
 * I understand there is no peer- review process, how do you ensure the material you get has a decent quality?
-  * We follow a [moderation process](moderation_process) but quality is not part of it.
+  * We follow a [moderation process](./moderation_process.md) but quality is not part of it.
 
 * Are submissions in color (in contrast to black&white) accepted?
   * Either color or black&white submissions are accepted.
@@ -67,7 +67,7 @@ that was developed outside a hackathon (e.g. offline collaborations)? Can I stil
   We recommend you always consult the journal policies of which you consider to submit.
 
 * Where can I find the names of the people in the moderation board, steering committee, etc?
-  * Find here the [moderation board](moderation_board) page where you will find the list of 
+  * Find here the [moderation board](./moderation_board.md) page where you will find the list of 
   moderation boards and people involved. Current steering committee members are listed at the 
   [BioHackrXiv website](https://biohackrxiv.org/).
 

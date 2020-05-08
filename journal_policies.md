@@ -15,7 +15,7 @@ moderation process and directions of BioHackrXiv. You can find the steering comm
 
 ## Moderation
 
-Moderation boards will take care of the [moderation process](moderation_process).
+Moderation boards will take care of the [moderation process](./moderation_process.md).
 
 We aim to have one global moderation board, and several event-specific moderation boards, one per each supported BioHackathon-like event. 
 A moderation board will have one chair and a variable number of moderators (at least one) who will collaborate with the chair 
