@@ -8,7 +8,7 @@
 
 * [About BioHackrXiv](about)
 * [Submission guidelines](submission_guidelines)
-* [Moderation process](moderation_process) -- Operated by the [Moderation board](moderation_board)
+* [Moderation process](moderation_process) -- Operated by the [moderation board members](moderation_board)
 * [Journal policies](journal_policies)
 * [FAQ](faq)
 
@@ -20,8 +20,8 @@
 
 ## Contact
 
-* Current steering committee members are listed at the [BioHackrXiv](https://biohackrxiv.org/) website.
-* Current moderation board members for each event are listed at the [Moderation board](moderation_board) page.
+* [Steering committee members](https://biohackrxiv.org/)
+* [Moderation board members](moderation_board)
 
 You can contact them by [sending an email](mailto:biohackrxiv@googlegroups.com).
 
