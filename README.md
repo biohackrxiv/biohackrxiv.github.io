@@ -8,16 +8,14 @@
 
 * [About BioHackrXiv](about)
 * [Submission guidelines](submission_guidelines)
-* [Moderation process](moderation_process)
-  * [Moderation board](moderation_board)
+* [Moderation process](moderation_process) -- Operated by the [Moderation board](moderation_board)
 * [Journal policies](journal_policies)
 * [FAQ](faq)
 
 ## Files
 
 * [Submission templates](https://github.com/biohackrxiv/submission-templates)
-* [Preview submission](http://preview.biohackrxiv.org)
-  * Powered by the [Markdown to PDF converter](https://github.com/biohackrxiv/bhxiv-gen-pdf)
+* [Preview submission](http://preview.biohackrxiv.org) -- Powered by the [Markdown to PDF converter](https://github.com/biohackrxiv/bhxiv-gen-pdf)
 * [BioHackrXiv logo](assets/logo/)
 
 ## Contact
