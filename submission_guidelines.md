@@ -60,7 +60,6 @@ of the paper "Logic group paper from NBDC/DBCLS BioHackathon 2019".
 ## After submitting
 
 * Submitted manuscripts go through the [moderation process](./moderation_process.md) to check basic conformance to the guidelines contained in this document.
-* Once the article is approved, it will be assigned a DOI and therefore citable; at this point articles cannot be withdrawn.
 * Any articles not conforming to these guidelines will be rejected and submitter will be notified, you can always modify your article an resubmit if you see you can fulfil the preprint requirements, [see "Before Submitting" section in this document](#before-submitting).
 * Please be aware preprints are not peer-review, you as an author carry full responsibility on the information, including but not limited to content, data, tools and references.
 * BioHackrXiv takes no responsibility on the material published.
