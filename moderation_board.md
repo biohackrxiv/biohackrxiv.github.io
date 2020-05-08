@@ -1,5 +1,7 @@
 # Current moderation board
 
+![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
+
 ## Pilot phase
 
 During our first year, 2019-2020, we are piloting this approach with a limited number of DOI assignments. 
