@@ -15,6 +15,6 @@ As a preprint, BioHackrXiv holds no peer-review process. We follow a basic check
 
 If the article is suitable for publication at BioHackrXiv, it will be accepted and a DOI will be assigned. Once a DOI is assigned, preprints become a public record and therefore their metadata must be preserved. Accepted articles can still be withdrawn with the approval of the BioHackrXiv steering committee. More information on the [withdrawn process](https://help.osf.io/hc/en-us/articles/360021490833-Withdrawing-a-Preprint) can be found at the OSF pages.
 
-# Copyright and plagiarism complains
+## Copyright and plagiarism complains
 
 Claims of copyright infringement or plagiarism should be reported by [email](mailto:biohackrxiv@googlegroups.com)
