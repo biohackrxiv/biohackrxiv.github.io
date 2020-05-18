@@ -41,11 +41,6 @@
 * Will my manuscript get a DOI?
   * Yes, it will.
 
-* What if I want to publish an update or follow up on a manuscript I already published in BioHackrXiv but 
-that was developed outside a hackathon (e.g. offline collaborations)? Can I still publish it?
-  * We restrict the publication of preprints in BioHackrXiv to material that has been initiated or 
-  developed during a BioHackathon-like event.
-
 * Can I correct errors on my preprint after publication? How?
   * Yes, you can always resubmit a new version. Go to your submissions (you will need to log in on the 
   [OSF preprints website](https://osf.io/preprints/)), locate the one you want to re-submit and follow 
