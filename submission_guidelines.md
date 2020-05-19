@@ -21,7 +21,7 @@ of the paper "Logic group paper from NBDC/DBCLS BioHackathon 2019".
 * **Footnotes**: Not permitted
 * **Language**: English (American or British spelling are accepted but do not mix them up)
 * **Abbreviations/acronyms**: Define them as they appear first in the manuscript
-* **References**: Preferably papers published or in press. If you want to cite web pages, please treat them as a reference (rather than as a direct link embedded in the text); whenever possible add an author and a publication date and always add the day you visited the page. If you are citing a web page corresponding to a software, whenever possible add the corresponding version. Your references will be converted to the 'Harvard' style by our [PDF generator](https://github.com/biohackrxiv/bhxiv-gen-pdf)
+* **References**: Preferably papers published or in press. If you want to cite web pages, please use the Markdown syntax for links (so they are visible in the text) but **also include them as a reference** (so authors/owners are credited by their work); whenever possible add an author and a publication date and always add the day you visited the page. If you are citing a web page corresponding to software or data, whenever possible add also the corresponding version. Your references will be converted to the 'Harvard' style by our [PDF generator](https://github.com/biohackrxiv/bhxiv-gen-pdf)
 
 ### Sections
 
