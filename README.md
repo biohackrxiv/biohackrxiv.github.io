@@ -15,8 +15,8 @@
 
 ## Files
 
-* [Submission templates](https://github.com/biohackrxiv/submission-templates)
-* [Preview submission](http://preview.biohackrxiv.org) -- Powered by the [Markdown to PDF converter](https://github.com/biohackrxiv/bhxiv-gen-pdf)
+* [Submission templates](https://github.com/biohackrxiv/publication-template)
+* [Preview submission](https://preview.biohackrxiv.org) -- Powered by the [Markdown to PDF converter](https://github.com/biohackrxiv/bhxiv-gen-pdf)
 * [BioHackrXiv logo](./assets/logo/)
 
 ## Contact
