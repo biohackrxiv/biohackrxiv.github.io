@@ -39,7 +39,7 @@ of the paper "Logic group paper from NBDC/DBCLS BioHackathon 2019".
 
 ## While preparing your submission
 
-* To prepare your manuscript please use the [Markdown](https://raw.githubusercontent.com/biohackrxiv/submission-templates/master/paper.md) template.
+* To prepare your manuscript please use the [Markdown](https://raw.githubusercontent.com/biohackrxiv/publication-template/master/paper/paper.md) template, e.g. by cloning [this repository](https://github.com/biohackrxiv/publication-template).
 * Please remember to get the approval of all listed co-authors before submitting.
 * Please remember to properly credit any third-party material you are using.
 * Once your manuscript is ready please use our [PDF generator tool](https://github.com/biohackrxiv/bhxiv-gen-pdf), you will find there instructions on how to use it and how to report issues.
