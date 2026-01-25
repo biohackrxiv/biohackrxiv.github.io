@@ -1,6 +1,7 @@
 # BioHackrXiv guide
 
 [This page](https://guide.biohackrxiv.org/) provides essential information for the [BioHackrXiv](https://biohackrxiv.org/) preprint server.
+[An index](https://index.biohackrxiv.org/) is available listing all previously published preprint, which can be browsed by biohackathon event.
 
 ![BioHackrXiv logo](assets/logo/BioHackrXiv-logo-transparent-340x140.png)
 
@@ -25,5 +26,9 @@
 
 You can contact them by [sending an email](mailto:biohackrxiv@googlegroups.com).
 
+## Social media
+
+* [Mastodon](https://fediscience.org/@biohackrxiv)
+* [Bluesky](https://bsky.app/profile/biohackrxiv.fediscience.org.ap.brid.gy)
 
 
